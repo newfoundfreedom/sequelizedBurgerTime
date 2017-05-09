@@ -1,5 +1,5 @@
 {
-  "name": "wk14-burgertime",
+  "name": "wk15-burgertime2",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/newfoundfreedom/BurgerTime.git"
+    "url": "git+https://github.com/newfoundfreedom/sequelizedBurgerTime.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/newfoundfreedom/BurgerTime/issues"
+    "url": "https://github.com/newfoundfreedom/sequelizedBurgerTime/issues"
   },
-  "homepage": "https://github.com/newfoundfreedom/BurgerTime#readme",
+  "homepage": "https://github.com/newfoundfreedom/sequelizedBurgerTime#readme",
   "dependencies": {
     "body-parser": "^1.17.1",
     "colors": "^1.1.2",
