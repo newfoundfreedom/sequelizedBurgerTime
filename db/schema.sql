@@ -1,0 +1,3 @@
+CREATE DATABASE bt2_db;
+
+USE bt2_db;
