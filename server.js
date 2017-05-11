@@ -26,7 +26,6 @@ app.set("view engine", "handlebars");
 app.use(express.static("./public"));
 
 // Routes
-require("./routes/html-routes.js")(app);
 require("./routes/api-routes.js")(app);
 
 // Sync sequelize models and then starting express app
@@ -36,3 +35,6 @@ db.sequelize.sync().then(function() {
         console.log("App listening on PORT " + PORT);
     });
 });
+
+
+console.log();
